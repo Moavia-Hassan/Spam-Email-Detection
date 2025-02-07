@@ -1,0 +1,9 @@
+Model: BaggingClassifier with DecisionTreeClassifier
+Base Estimator Parameters: max_depth=10, min_samples_split=9, min_samples_leaf=4
+Number of Estimators: 10
+Dataset Size: 155007 samples, 3000 features
+Accuracy: 0.8936312964492156
+Precision: 0.8421305182341651
+Recall: 0.9547383309759547
+F1-Score: 0.8949059201468563
+ROC-AUC: 0.9455291021018141
