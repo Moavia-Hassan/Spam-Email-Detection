@@ -1,0 +1,14 @@
+Model: XGBClassifier
+Number of Estimators: 100
+Learning Rate: 0.1
+Max Depth: 3
+Min Child Weight: 1
+Subsample: 0.8
+Colsample by Tree: 0.8
+Dataset Size: 155007 samples, 3000 features
+Accuracy: 0.9073338150289018
+Precision: 0.8658060048474057
+Recall: 0.9522358829289522
+F1-Score: 0.9069665017228425
+ROC-AUC: 0.9751509248417923
+R² Score: 0.6283571894064903
